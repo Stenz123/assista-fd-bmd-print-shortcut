@@ -49,7 +49,8 @@ WaitForWindowClose(name)
 }
 
 
-/* To Get the positions for readjustment you can uncomment this function (activated with shift+print)
+; To Get the positions for readjustment you can uncomment this function (activated with shift+print)
+/*
 +PrintScreen::
 {	
 	CoordMode "Mouse", "Window" ;Sets the coordinate system relative to the active window
